@@ -1,23 +1,11 @@
 {
   "Version": 1,
-  "Hash": "fXB1Xs0BnUiCrnrIcUzuoq8VXKZXMO7UYgxK158DOw0=",
+  "Hash": "H0KND2pNhVXaD3JYLw+t/+rG0OT9beqXalx9JkqqaRE=",
   "Source": "BuberDinner.Api",
   "BasePath": "_content/BuberDinner.Api",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [
-    {
-      "Identity": "C:\\Code\\asp_tutorials\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
-      "Version": 2,
-      "Source": "BuberDinner.Contracts",
-      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "",
-      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
-      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "",
-      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
-    }
-  ],
+  "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
   "Assets": []
 }

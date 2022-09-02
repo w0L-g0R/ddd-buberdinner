@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s5vgRHXj/b+/e0N2CBGRUF8adQgyUCiiqCaQ9UH/MtHqCXIcrm7MOZoE5bXOhl1cjqAa6eh+JTXUPXA96YEtRg==",
+  "dgSpecHash": "T/hSY+maFxWIDvNW5AvJoTxcAsFmcWl5jQRCD/M67ObabMSUj2oIClZCDUxTVD1XQEyMIlhvXG+PXVmR2Uf4mA==",
   "success": true,
-  "projectFilePath": "C:\\Code\\asp_tutorials\\BuberDinner\\BuberDinner.Infastructure\\BuberDinner.Infastructure.csproj",
+  "projectFilePath": "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Infastructure\\BuberDinner.Infastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

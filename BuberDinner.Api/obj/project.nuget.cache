@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nM9kp/BuYRHR57RpHLH8DDooa/ssMv1HNKVK4ffRbNPNNYWW3QTr7cOadJwK67izTa5QzhBCmKx+WKDfpZCGxQ==",
+  "dgSpecHash": "+q7GFXd+kYJun4WZjeQKijkukj0c0vCEl3atv19Auv16bt3ABwpzywoEVv1ccmBYh+LropSJ6C4kYOYM4OAYgw==",
   "success": true,
-  "projectFilePath": "C:\\Code\\asp_tutorials\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Goritschnig.Wolfgang\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\Goritschnig.Wolfgang\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Goritschnig.Wolfgang\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\Goritschnig.Wolfgang\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\Goritschnig.Wolfgang\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\Goritschnig.Wolfgang\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
