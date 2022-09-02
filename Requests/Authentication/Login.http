@@ -4,5 +4,5 @@ Content-Type: application/json
 
 {
     "email": "Wolfgang.Goritschnig@mailme.to",
-    "password": "Uncrackable",
+    "password": "Uncrackable"
 }
