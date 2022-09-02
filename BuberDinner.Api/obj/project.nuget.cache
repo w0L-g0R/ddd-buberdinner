@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "ASh+gdtF03BTEk/E7PPuAo58XCwmQ0bd5643/eA2cjn381eGmkGFZmHDKkQ1Lb7fas8/SpKI4oHEecm1NEsULA==",
+  "dgSpecHash": "yYm0VUDc8kFHXvUHVnx/JI0ao31Goqb9ERK/KLcuDmqCerGPrEaBtrp/T8Z3jcLhG9f9iimy8HQr6CSJwWxg1A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Wolfgang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "C:\\Users\\Wolfgang\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Wolfgang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Wolfgang\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.1\\microsoft.identitymodel.abstractions.6.22.1.nupkg.sha512",
+    "C:\\Users\\Wolfgang\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.22.1\\microsoft.identitymodel.jsonwebtokens.6.22.1.nupkg.sha512",
+    "C:\\Users\\Wolfgang\\.nuget\\packages\\microsoft.identitymodel.logging\\6.22.1\\microsoft.identitymodel.logging.6.22.1.nupkg.sha512",
+    "C:\\Users\\Wolfgang\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.22.1\\microsoft.identitymodel.tokens.6.22.1.nupkg.sha512",
+    "C:\\Users\\Wolfgang\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.22.1\\system.identitymodel.tokens.jwt.6.22.1.nupkg.sha512",
+    "C:\\Users\\Wolfgang\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
