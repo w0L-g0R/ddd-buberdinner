@@ -71,3 +71,4 @@ C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\bin\Debug\
 C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
