@@ -22,7 +22,7 @@ public class AuthenticationService : IAuthenticationService
 
         var token = _jwtTokenGenerator.GenerateToken(userId, firstName, lastName);
 
-        return new AuthenticationResult(userId, firstName, lastName, email, "token");
+        return new AuthenticationResult(userId, firstName, lastName, email, token);
     }
 
     public AuthenticationResult Login(string email, string password)
