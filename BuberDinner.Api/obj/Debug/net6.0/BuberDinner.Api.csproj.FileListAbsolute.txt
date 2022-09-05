@@ -55,10 +55,8 @@ C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\bin\Debug\
 C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Application.dll
 C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Contracts.dll
 C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Domain.dll
-C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Infastructure.dll
 C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Contracts.pdb
 C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Application.pdb
-C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Infastructure.pdb
 C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Domain.pdb
 C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\obj\Debug\net6.0\staticwebassets.development.json
@@ -72,3 +70,5 @@ C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\bin\Debug\
 C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Infrastructure.dll
+C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Infrastructure.pdb

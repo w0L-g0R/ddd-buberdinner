@@ -32,8 +32,8 @@
               "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
                 "projectPath": "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
               },
-              "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Infastructure\\BuberDinner.Infastructure.csproj": {
-                "projectPath": "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Infastructure\\BuberDinner.Infastructure.csproj"
+              "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
               }
             }
           }
@@ -239,14 +239,14 @@
         }
       }
     },
-    "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Infastructure\\BuberDinner.Infastructure.csproj": {
+    "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Infastructure\\BuberDinner.Infastructure.csproj",
-        "projectName": "BuberDinner.Infastructure",
-        "projectPath": "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Infastructure\\BuberDinner.Infastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+        "projectName": "BuberDinner.Infrastructure",
+        "projectPath": "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Wolfgang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Infastructure\\obj\\",
+        "outputPath": "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wolfgang\\AppData\\Roaming\\NuGet\\NuGet.Config"

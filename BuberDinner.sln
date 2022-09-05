@@ -11,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuberDinner.Contracts", "Bu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuberDinner.Domain", "BuberDinner.Domain\BuberDinner.Domain.csproj", "{5C67F594-588F-4D89-9D55-359D2F47DF4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuberDinner.Infastructure", "BuberDinner.Infastructure\BuberDinner.Infastructure.csproj", "{08B4F609-2F83-41A9-9B40-A176F42C6C35}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuberDinner.Infrastructure", "BuberDinner.Infrastructure\BuberDinner.Infrastructure.csproj", "{08B4F609-2F83-41A9-9B40-A176F42C6C35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuberDinner.Infastructure", "BuberDinner.Infrastructure\BuberDinner.Infastructure.csproj", "{50AA25AC-50B2-4FA4-8022-818B89C06AD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,5 +44,9 @@ Global
 		{08B4F609-2F83-41A9-9B40-A176F42C6C35}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08B4F609-2F83-41A9-9B40-A176F42C6C35}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08B4F609-2F83-41A9-9B40-A176F42C6C35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50AA25AC-50B2-4FA4-8022-818B89C06AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50AA25AC-50B2-4FA4-8022-818B89C06AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50AA25AC-50B2-4FA4-8022-818B89C06AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50AA25AC-50B2-4FA4-8022-818B89C06AD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

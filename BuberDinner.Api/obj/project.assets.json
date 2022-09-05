@@ -279,7 +279,7 @@
           "bin/placeholder/BuberDinner.Domain.dll": {}
         }
       },
-      "BuberDinner.Infastructure/1.0.0": {
+      "BuberDinner.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -290,10 +290,10 @@
           "System.IdentityModel.Tokens.Jwt": "6.22.1"
         },
         "compile": {
-          "bin/placeholder/BuberDinner.Infastructure.dll": {}
+          "bin/placeholder/BuberDinner.Infrastructure.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BuberDinner.Infastructure.dll": {}
+          "bin/placeholder/BuberDinner.Infrastructure.dll": {}
         }
       }
     }
@@ -722,17 +722,17 @@
       "path": "../BuberDinner.Domain/BuberDinner.Domain.csproj",
       "msbuildProject": "../BuberDinner.Domain/BuberDinner.Domain.csproj"
     },
-    "BuberDinner.Infastructure/1.0.0": {
+    "BuberDinner.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../BuberDinner.Infastructure/BuberDinner.Infastructure.csproj",
-      "msbuildProject": "../BuberDinner.Infastructure/BuberDinner.Infastructure.csproj"
+      "path": "../BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
+      "msbuildProject": "../BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "BuberDinner.Application >= 1.0.0",
       "BuberDinner.Contracts >= 1.0.0",
-      "BuberDinner.Infastructure >= 1.0.0"
+      "BuberDinner.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -766,8 +766,8 @@
             "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
               "projectPath": "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
             },
-            "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Infastructure\\BuberDinner.Infastructure.csproj": {
-              "projectPath": "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Infastructure\\BuberDinner.Infastructure.csproj"
+            "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Wolfgang\\Code\\Tutorials\\.net\\ddd-buberdinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
             }
           }
         }
