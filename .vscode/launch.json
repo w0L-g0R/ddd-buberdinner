@@ -8,7 +8,7 @@
             "name": ".NET Core Launch (web)",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "build",
+            "preLaunchTask": "attach",
             // If you have changed target frameworks, make sure to update the program path.
             "program": "${workspaceFolder}/BuberDinner.Api/bin/Debug/net6.0/BuberDinner.Api.dll",
             "args": [],

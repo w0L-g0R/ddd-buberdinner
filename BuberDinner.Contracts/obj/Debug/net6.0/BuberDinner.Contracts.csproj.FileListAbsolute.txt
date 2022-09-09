@@ -10,3 +10,15 @@ C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Contracts\obj\
 C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Contracts\obj\Debug\net6.0\refint\BuberDinner.Contracts.dll
 C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.pdb
 C:\Users\Wolfgang\Code\Tutorials\.net\ddd-buberdinner\BuberDinner.Contracts\obj\Debug\net6.0\ref\BuberDinner.Contracts.dll
+C:\Code\asp_tutorials\BuberDinner\BuberDinner.Contracts\bin\Debug\net6.0\BuberDinner.Contracts.deps.json
+C:\Code\asp_tutorials\BuberDinner\BuberDinner.Contracts\bin\Debug\net6.0\BuberDinner.Contracts.dll
+C:\Code\asp_tutorials\BuberDinner\BuberDinner.Contracts\bin\Debug\net6.0\BuberDinner.Contracts.pdb
+C:\Code\asp_tutorials\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.csproj.AssemblyReference.cache
+C:\Code\asp_tutorials\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\asp_tutorials\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
+C:\Code\asp_tutorials\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.AssemblyInfo.cs
+C:\Code\asp_tutorials\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+C:\Code\asp_tutorials\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.dll
+C:\Code\asp_tutorials\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\refint\BuberDinner.Contracts.dll
+C:\Code\asp_tutorials\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.pdb
+C:\Code\asp_tutorials\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\ref\BuberDinner.Contracts.dll
